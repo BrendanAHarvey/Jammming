@@ -2,7 +2,7 @@ import React from 'react';
 
 import './SearchResults.css';
 
-class SearchResult extends React.Component {
+class SearchResults extends React.Component {
     render() {
         return(
             <div className="SearchResults">
